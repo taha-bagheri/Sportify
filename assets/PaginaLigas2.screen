@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<model:Screen xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:model="http://wireframesketcher.com/1.0/model.ecore">
+  <widgets xsi:type="model:Window" id="21" x="96" y="64" width="1073" height="745" text="Window" measuredWidth="1073" measuredHeight="745"/>
+  <widgets xsi:type="model:Icon" id="2" x="1112" y="97" width="41" height="41" measuredWidth="41" measuredHeight="41" icon="user (custom)"/>
+  <widgets xsi:type="model:ButtonBar" id="3" x="1016" y="101" width="97" height="33" text="Login" measuredWidth="97" measuredHeight="33" selection="0">
+    <font/>
+    <items x="0" y="0" width="96" height="33" text="Login"/>
+  </widgets>
+  <widgets xsi:type="model:TabbedPane" id="4" x="176" y="248" width="873" height="521" text="Partidos,Clasificacion" measuredWidth="873" measuredHeight="521" selection="0">
+    <items x="10" y="0" width="64" height="27" text="Partidos"/>
+    <items x="74" y="0" width="88" height="27" text="Clasificacion"/>
+    <font/>
+  </widgets>
+  <widgets xsi:type="model:Tabs" id="5" x="176" y="208" width="769" text="Liga A,Liga B,Liga C" measuredWidth="769" measuredHeight="27" selection="0">
+    <items x="1" y="0" width="54" height="27" text="Liga A"/>
+    <items x="55" y="0" width="53" height="27" text="Liga B"/>
+    <items x="108" y="0" width="54" height="27" text="Liga C"/>
+    <font/>
+  </widgets>
+  <widgets xsi:type="model:Label" id="15" x="564" y="184" width="169" text="Ligas" measuredWidth="169" measuredHeight="38">
+    <font size="22px" bold="true"/>
+  </widgets>
+  <widgets xsi:type="model:TabbedPane" id="16" x="208" y="296" width="785" height="441" text="semana pasada,Semana actual,Proxima semana" measuredWidth="785" measuredHeight="441" selection="0">
+    <items x="10" y="0" width="102" height="27" text="semana pasada"/>
+    <items x="112" y="0" width="98" height="27" text="Semana actual"/>
+    <items x="210" y="0" width="109" height="27" text="Proxima semana"/>
+    <font/>
+  </widgets>
+  <widgets xsi:type="model:ButtonBar" id="9" x="240" y="388" width="721" height="49" text="Equipo A,Equipo B" measuredWidth="721" measuredHeight="49" selection="0">
+    <font size="20px" bold="true"/>
+    <items x="0" y="0" width="358" height="49" text="Equipo A"/>
+    <items x="358" y="0" width="363" height="49" text="Equipo B"/>
+  </widgets>
+  <widgets xsi:type="model:ButtonBar" id="12" x="240" y="505" width="721" height="49" text="Equipo C,Equipo D" measuredWidth="721" measuredHeight="49" selection="0">
+    <font size="20px" bold="true"/>
+    <items x="0" y="0" width="352" height="49" text="Equipo C"/>
+    <items x="352" y="0" width="369" height="49" text="Equipo D"/>
+  </widgets>
+  <widgets xsi:type="model:Icon" id="10" x="549" y="401" measuredWidth="24" measuredHeight="24" icon="assets/fa-3 (medium)"/>
+  <widgets xsi:type="model:Icon" id="11" x="624" y="401" measuredWidth="24" measuredHeight="24" icon="assets/fa-0 (medium)"/>
+  <widgets xsi:type="model:Icon" id="13" x="549" y="518" measuredWidth="24" measuredHeight="24" icon="assets/fa-4 (medium)"/>
+  <widgets xsi:type="model:Icon" id="14" x="624" y="518" measuredWidth="24" measuredHeight="24" icon="assets/fa-1 (medium)"/>
+  <widgets xsi:type="model:VScrollbar" id="18" x="975" y="323" height="414" measuredWidth="17" measuredHeight="414"/>
+  <widgets xsi:type="model:Label" id="19" x="240" y="358" width="105" text="27/04/2023" measuredWidth="105" measuredHeight="31">
+    <font size="16px" bold="true"/>
+  </widgets>
+  <widgets xsi:type="model:Label" id="20" x="240" y="475" width="105" text="26/04/2023" measuredWidth="105" measuredHeight="31">
+    <font size="16px" bold="true"/>
+  </widgets>
+  <widgets xsi:type="model:Icon" id="22" x="106" y="83" width="81" height="69" measuredWidth="81" measuredHeight="69" icon="eye (custom)"/>
+  <widgets xsi:type="model:Label" id="23" x="192" y="84" width="177" text="Sportify" measuredWidth="177" measuredHeight="67">
+    <font size="43px"/>
+  </widgets>
+  <widgets xsi:type="model:HLine" id="24" x="100" y="151" width="1065" measuredWidth="1065" measuredHeight="6"/>
+  <hRuler>
+    <guides position="90"/>
+  </hRuler>
+  <vRuler/>
+  <font size="12px"/>
+</model:Screen>

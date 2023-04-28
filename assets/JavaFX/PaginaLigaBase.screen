@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<model:Screen xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:model="http://wireframesketcher.com/1.0/model.ecore">
+  <widgets xsi:type="model:Window" id="2" x="96" y="64" width="1073" height="745" text="Window" measuredWidth="1073" measuredHeight="745"/>
+  <widgets xsi:type="model:Icon" id="3" x="1112" y="97" width="41" height="41" measuredWidth="41" measuredHeight="41" icon="user (custom)"/>
+  <widgets xsi:type="model:ButtonBar" id="4" x="1016" y="101" width="97" height="33" text="Login" measuredWidth="97" measuredHeight="33" selection="0">
+    <font/>
+    <items x="0" y="0" width="96" height="33" text="Login"/>
+  </widgets>
+  <widgets xsi:type="model:Icon" id="5" x="106" y="83" width="81" height="69" measuredWidth="81" measuredHeight="69" icon="eye (custom)"/>
+  <widgets xsi:type="model:Label" id="6" x="192" y="84" width="177" text="Sportify" measuredWidth="177" measuredHeight="67">
+    <font size="43px"/>
+  </widgets>
+  <widgets xsi:type="model:HLine" id="7" x="100" y="151" width="1065" measuredWidth="1065" measuredHeight="6"/>
+  <widgets xsi:type="model:VButtonBar" id="10" x="144" y="256" width="921" height="433" text="Liga A&#xD;&#xA;Liga B&#xD;&#xA;Liga C" measuredWidth="921" measuredHeight="433" selection="0">
+    <font size="20px" bold="true"/>
+    <items x="0" y="0" width="921" height="141" text="Liga A"/>
+    <items x="0" y="141" width="921" height="140" text="Liga B"/>
+    <items x="0" y="281" width="921" height="152" text="Liga C"/>
+  </widgets>
+  <widgets xsi:type="model:Icon" id="11" x="1008" y="304" measuredWidth="32" measuredHeight="32" icon="assets/fa-heart-o (large)"/>
+  <widgets xsi:type="model:Icon" id="12" x="1008" y="594" measuredWidth="32" measuredHeight="32" icon="assets/fa-heart-o (large)"/>
+  <widgets xsi:type="model:Icon" id="13" x="1008" y="448" measuredWidth="32" measuredHeight="32" icon="assets/fa-heart-o (large)"/>
+  <widgets xsi:type="model:Button" id="14" x="920" y="300" width="73" height="36" text="Unirse" measuredWidth="73" measuredHeight="36">
+    <font/>
+  </widgets>
+  <widgets xsi:type="model:Button" id="15" x="920" y="592" width="73" height="36" text="Unirse" measuredWidth="73" measuredHeight="36">
+    <font/>
+  </widgets>
+  <widgets xsi:type="model:Button" id="16" x="920" y="444" width="73" height="36" text="Unirse" measuredWidth="73" measuredHeight="36">
+    <font/>
+  </widgets>
+  <widgets xsi:type="model:Label" id="18" x="920" y="351" width="97" text="Active" measuredWidth="97" measuredHeight="25">
+    <font size="14px" bold="true"/>
+  </widgets>
+  <widgets xsi:type="model:Icon" id="19" x="961" y="356" measuredWidth="16" measuredHeight="16" icon="bullet (small)"/>
+  <widgets xsi:type="model:Label" id="20" x="920" y="640" width="97" text="Active" measuredWidth="97" measuredHeight="25">
+    <font size="14px" bold="true"/>
+  </widgets>
+  <widgets xsi:type="model:Icon" id="21" x="961" y="645" measuredWidth="16" measuredHeight="16" icon="bullet (small)"/>
+  <widgets xsi:type="model:Label" id="22" x="920" y="496" width="97" text="Active" measuredWidth="97" measuredHeight="25">
+    <font size="14px" bold="true"/>
+  </widgets>
+  <widgets xsi:type="model:Icon" id="23" x="961" y="501" measuredWidth="16" measuredHeight="16" icon="bullet (small)"/>
+  <hRuler/>
+  <vRuler/>
+  <font size="12px"/>
+</model:Screen>
